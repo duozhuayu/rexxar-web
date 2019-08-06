@@ -21,6 +21,6 @@
     "eslint": "^3.6.1"
   },
   "peerDependencies": {
-    "isomorphic-fetch": "^2.2.1"
+    "whatwg-fetch": "^3.0.0"
   }
 }

@@ -1,4 +1,4 @@
-import fetch from 'isomorphic-fetch';
+import 'whatwg-fetch'
 
 import { str2obj, getType } from './utils';
 
